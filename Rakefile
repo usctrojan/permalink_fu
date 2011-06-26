@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "permalink_fu"
   gem.homepage = "http://github.com/usctrojan/permalink_fu"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{one-line summary of your gem}
+  gem.description = %Q{longer description of your gem}
   gem.email = "abtrinh@gmail.com"
   gem.authors = ["Your Name"]
   # dependencies defined in Gemfile
