@@ -1,7 +1,5 @@
 = permalink_fu
 
-Description goes here.
-
 == Contributing to permalink_fu
  
 * Check out the latest master to make sure the feature hasn't been implemented or the bug hasn't been fixed yet
